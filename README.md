@@ -5,7 +5,7 @@ I'm a quantitative professional and aspiring Machine Learning Engineer based in 
 - 🔭 I’m currently building an **[Automated Energy Demand Forecasting Pipeline](link-to-your-repo)** using Python, Airflow, Docker, and AWS.
 - 🌱 I’m currently learning about MLOps principles and cloud-native machine learning on AWS SageMaker.
 - 💬 Ask me about time-series analysis, econometrics, or Python for data science.
-- 📫 How to reach me: **[LinkedIn](www.linkedin.com/in/eric-scott-0b3a4ab9)**
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/eric-scott-0b3a4ab9)**
 
 ---
 
